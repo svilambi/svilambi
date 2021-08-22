@@ -2,6 +2,8 @@
 
 Learning New things on Cloud and try to Implement them.
 
+Connect me on [Linkedin](https://www.linkedin.com/in/sun7555/)
+
 <!--
 **svilambi/svilambi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
