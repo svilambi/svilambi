@@ -5,6 +5,10 @@ DevOps Engineer with 6+ years of experience in managing cloud infrastructure ,in
 Connect me on [Linkedin](https://www.linkedin.com/in/sun7555/)
 
 Profile [WWW](http://sunil-kumar.s3-website.ap-south-1.amazonaws.com/)
+
+Training and Certifications:
+
+[AWS Cloud Practitioner Essentials]([http://sunil-kumar.s3-website.ap-south-1.amazonaws.com/](https://sunil-kumar.s3.ap-south-1.amazonaws.com/134_3_1875777_1655905194_AWS+Course+Completion+Certificate.pdf)
 <!--
 **svilambi/svilambi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
