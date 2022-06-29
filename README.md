@@ -17,6 +17,9 @@ Training and Certifications:
 [CS DevOps](https://certificates.simplicdn.net/share/1525909.pdf)
 
 [CS AWS](https://certificates.simplicdn.net/share/1532119.pdf)
+
+[JSON Path](https://kodekloud.com/certificate-verification/812FE85120-7F1181A43C-7F114426D2/)
+
 <!--
 **svilambi/svilambi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
