@@ -8,6 +8,8 @@ Profile [WWW](http://sunil-kumar.s3-website.ap-south-1.amazonaws.com/)
 
 Training and Certifications:
 
+[GCP Fundamentals](https://partner.cloudskillsboost.google/public_profiles/c7ee802d-a651-46f2-be77-c0e437761a55/badges/2908005?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+
 [AWS Cloud Practitioner Essentials](https://sunil-kumar.s3.ap-south-1.amazonaws.com/134_3_1875777_1655905194_AWS+Course+Completion+Certificate.pdf)
 
 [AWS CSAA](https://udemy-certificate.s3.amazonaws.com/pdf/UC-a07f6270-dc45-47ee-8bd4-e7bdf9d19fc8.pdf)
