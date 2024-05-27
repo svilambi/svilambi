@@ -24,12 +24,6 @@ Training and Certifications:
 
 [JSON Path](https://kodekloud.com/certificate-verification/812FE85120-7F1181A43C-7F114426D2/)
 
-{{ template "hourly-table" $todayWeather.HourlyWeathers }}
-
-{{ template "daily-table" .Weathers }}
-
-{{ formatTime .UpdatedAt }}
-
 <!--
 **svilambi/svilambi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
